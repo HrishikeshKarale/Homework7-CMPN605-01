@@ -1,0 +1,7 @@
+
+
+  a  b  c   <-- classified as
+ 60  0  0 |  a = G
+  8  0  1 |  b = B
+ 14  0  7 |  c = M
+
